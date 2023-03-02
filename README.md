@@ -7,6 +7,12 @@ C++ Data Exploration: [code link](DataExploration.cpp)
 
 C++ Data Exploration: [document link](C++%20Data%20Exploration.pdf)
 
-Classification:[label](Classification.pdf)
+Classification:[Link](Classification.pdf)
 
-Regression:[label](Regression.pdf)
+Regression:[Link](Regression.pdf)
+
+ML Algorithms from Scracth document: [Link](ML%20Algorithms%20from%20Scratch.pdf)
+
+Logistice Regression from Scratch code: [Link](LogisticRegressionScratch.cpp)
+
+Naive Bayes from Scratch code: [Link](NaiveBayesScratch.cpp)
