@@ -16,3 +16,5 @@ ML Algorithms from Scracth document: [Link](ML%20Algorithms%20from%20Scratch.pdf
 Logistice Regression from Scratch code: [Link](LogisticRegressionScratch.cpp)
 
 Naive Bayes from Scratch code: [Link](NaiveBayesScratch.cpp)
+
+Similarity and Ensemble (part 2): [Link](SimiliarityAndEnsemble-part2-.pdf)
