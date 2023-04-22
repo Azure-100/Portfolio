@@ -18,3 +18,5 @@ Logistice Regression from Scratch code: [Link](LogisticRegressionScratch.cpp)
 Naive Bayes from Scratch code: [Link](NaiveBayesScratch.cpp)
 
 Similarity and Ensemble (part 2): [Link](SimiliarityAndEnsemble-part2-.pdf)
+
+Image classification: [Link](Image%20Classification.pdf)
