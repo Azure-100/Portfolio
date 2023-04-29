@@ -7,9 +7,9 @@ C++ Data Exploration: [code link](DataExploration.cpp)
 
 C++ Data Exploration: [document link](C++%20Data%20Exploration.pdf)
 
-Classification:[Link](Classification.pdf)
+Classification: [Link](Classification.pdf)
 
-Regression:[Link](Regression.pdf)
+Regression: [Link](Regression.pdf)
 
 ML Algorithms from Scracth document: [Link](ML%20Algorithms%20from%20Scratch.pdf)
 
@@ -19,4 +19,4 @@ Naive Bayes from Scratch code: [Link](NaiveBayesScratch.cpp)
 
 Similarity and Ensemble (part 2): [Link](SimiliarityAndEnsemble-part2-.pdf)
 
-Image classification: [Link](Image%20Classification.pdf)
+Image classification: [Link] (Image%20Classification.pdf)
