@@ -19,7 +19,7 @@ Naive Bayes from Scratch code: [Link](NaiveBayesScratch.cpp)
 
 Similarity and Ensemble (part 2): [Link](SimiliarityAndEnsemble-part2-.pdf)
 
-Image classification: [Link] (Image%20Classification.pdf)
+Image classification: [Link](Image%20Classification.pdf)
 
 As explained in the Skills section, I have demonstred that I have the developed the starting skills necessary to work with machine lerning in the C++, R, and Python languages.
 
