@@ -21,6 +21,7 @@ In the Linear Models assignment we were required to learn the following skills:
 1. Perform data cleaning and data exploration on medium-sized data sets
 2. Perform machine learning using linear models
 3. Evaluate model performance
+
 In particular, I performed linear regression on a "Video game with Sales Ratings" dataset to predict if a video game would sell well.
 Also, a linear classificaiton model was made on a "Prediciton of Music genre" dataset to deterime if a song would be popular or not.
 
