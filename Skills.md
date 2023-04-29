@@ -40,6 +40,7 @@ Basic Python and ML with Python
 Since Python was not know to me before the semester, I had to attain skills necessary to work in the envionment. This required me to learn the various sytax rules and how pointers work differently in Python as opposed to Java and C++.
 
 Furthermore, everyting learned with R in the course had to be demonstrated in Python. This is demonstred in the ML with sklearn assignment where we had to make models bases on a provided "Automotives" dataset.
+
 -------
 Basic Neural Networks in Python
 
